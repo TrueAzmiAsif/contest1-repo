@@ -1,0 +1,22 @@
+nav{
+background-color:black;
+color: white;
+width:100%;
+}
+
+button{
+background-color:black;
+color:white;
+height:40px;
+}
+table{
+width:100%;
+}
+table,th,td{
+border:1px solid black;
+}
+
+table tfoot{
+background-color:black;
+color:white;
+}
